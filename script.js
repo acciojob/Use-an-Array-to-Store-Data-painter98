@@ -44,5 +44,4 @@ let yourArray = [
 		six: false
 	}
 ]
-	]
 ];
