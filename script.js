@@ -4,12 +4,12 @@ let yourArray = [
 		one: "hii",
 		two: 90,
 		three: true
-	}
-],
-[
+	},
+	{
 		four: "hello",
 		five: 10,
 		six: false
+	}
 ],
 [
 	{
